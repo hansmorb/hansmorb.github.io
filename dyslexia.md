@@ -4,12 +4,6 @@ category : Programming
 tags : [dyslexia, typoglycemia, Javascript]
 title: Dsxyliea
 ---
-<style type="text/css">
-header {
-  display: none;
-}
-</style>
-
 Die Prinzessin dritten Grades, lebt bei ihren Großeltern im Schloss und möchte heute gerne ausreiten. Sie steigt aus ihrer Federbettwäsche in ihre Hausschuhe, geht zum Fenster und guckt nach draußen. In dem Moment beginnt ein Platzregen. Trotz dessen geht sie runter und hofft, dass die Sonne nochmal rauskommt. In der Zeit frühstückt sie zwei pochierte Eier mit Brot. Nach einem Glas Milch zieht sie ihre Reitkleidung an und geht zu ihrem Pferd. Die Sonne kommt doch noch raus und sie nutzt den Moment und reitet los. Nach einiger Zeit reitet sie nach Hause und genießt den restlichen Tag, bis sie ihre Hausschuhe wieder neben das Bett stellt und ihr Gesicht die Federbettwäsche berührt. Gute Nacht. 
 
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
